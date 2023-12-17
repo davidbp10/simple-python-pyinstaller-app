@@ -1,4 +1,4 @@
-# Instrucciones del proceso completo
+# Entregable 3: Terraform + SCV + Jenkins
 
 Participantes: David Brea Piñero y Jesús Alberto Mellado Montes.
 
