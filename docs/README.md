@@ -1,6 +1,6 @@
 # Entregable 3: Terraform + SCV + Jenkins
 
-Participantes: David Brea Piñero y Jesús Alberto Mellado Montes.
+**Participantes**: David Brea Piñero y Jesús Alberto Mellado Montes.
 
 ## Primer paso: Desplegar Contenedores dind y Jenkins
 
